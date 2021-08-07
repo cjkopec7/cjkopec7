@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Colby Kopec
+- Bachelor of Science in Computer Science with Concentration in Business, May 2021
+	University of North Carolina Wilmington
+	Graduated with a GPA of 3.4 on a 4.0 scale
 - 👀 I’m a highly driven recent graduate with a passion for computers and programming looking
 to use my education to enhance my abilities and to pursue personal and professional development in
 the field while offering a team mentality and contributing to the prosperity of an esteemed organization
