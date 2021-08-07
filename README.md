@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Colby Kopec
-- 👀 I’m a A highly driven recent graduate with a passion for computers and programming looking
+- 👀 I’m a highly driven recent graduate with a passion for computers and programming looking
 to use my education to enhance my abilities and to pursue personal and professional development in
 the field while offering a team mentality and contributing to the prosperity of an esteemed organization
 
